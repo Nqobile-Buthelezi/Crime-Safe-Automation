@@ -1,0 +1,6 @@
+node_modules/
+playwright-report/
+test-results/
+.env
+*.zip
+Safer_City_Test_Documentation.xlsx

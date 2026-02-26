@@ -1,0 +1,13 @@
+{
+  "personalDetails": {
+    "name": "Jane",
+    "surname": "Doe",
+    "phone": "821234567",
+    "email": "jane.doe@example.com"
+  },
+  "crimeDetails": {
+    "description": "Witnessed a theft",
+    "location": "Main St & 1st Ave",
+    "filePath": "../data/sample-evidence.txt"
+  }
+}
